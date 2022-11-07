@@ -1,0 +1,136 @@
+/* Single course css identified */
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .single-course .related_courses {
+    margin-bottom: 240px !important;
+  }
+}
+
+.single-course.c5 .course_header {
+  background: #ff4367;
+}
+
+.single-course.c5 .course_header #item-header div#item-header-content h1 {
+  color: #fff;
+}
+
+.single-course.c2 #item-nav div.item-list-tabs#object-nav li.current a {
+  color: #ffffff;
+  background: #7ba631;
+  box-shadow: 10px 10px 50px rgba(146, 158, 198, 0.1);
+}
+
+.single-course.c2 #item-nav div.item-list-tabs#object-nav li {
+  background: #ffffff;
+  margin: 0px;
+  box-shadow: 10px 10px 50px rgba(146, 158, 198, 0.1);
+  border-radius: 10px;
+}
+
+.single-course.c2 #item-nav div.item-list-tabs#object-nav {
+  margin-bottom: 25px;
+}
+
+.single-course.c2 #item-nav div.item-list-tabs#object-nav li a {
+  color: #7ba631;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.single-course.c2 .course_curriculum .course_section {
+  border-bottom: 1px solid #dfdfdf;
+}
+
+.single-course.c2 .course_header #item-header-content h1 {
+  color: #ffffff;
+}
+
+/*single course page take this button section on top for mobile version*/
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+  .single-course #buddypress .row {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .col-md-9 {
+    order: 2;
+  }
+
+  .col-md-3 {
+    order: 1;
+  }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 1024px) {
+  .single-course div#course-pricing {
+    margin-top: -12px;
+  }
+}
+
+/*single course page bottom footer*/
+@media only screen and (min-width: 1700px) and (max-width: 1920px) {
+  .single-course
+    section.elementor-element.elementor-element-22caad5a.elementor-section-stretched.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default.elementor-section.elementor-top-section {
+    width: 1920px;
+    margin-left: -270px;
+  }
+}
+
+@media only screen and (min-width: 1100px) and (max-width: 1500px) {
+  .single-course
+    section.elementor-element.elementor-element-22caad5a.elementor-section-stretched.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default.elementor-section.elementor-top-section {
+    width: 1400px;
+    margin-left: -107px;
+  }
+}
+
+.single-course ul#menu-1-74fd258 li {
+  float: left !important;
+  padding: 9px !important;
+}
+
+.single-course nav.elementor-nav-menu--dropdown.elementor-nav-menu__container {
+  display: none !important;
+}
+
+.single-course .course_sharing ul {
+  display: none;
+}
+
+.single-course .course_details ul li {
+  text-transform: capitalize;
+}
+
+/* Search Page Css End */
+.single-course div#item-nav.fixed {
+  position: fixed;
+  display: none !important;
+  width: 100%;
+  z-index: 999;
+}
+
+/* css by arif */
+.single-course div#item-nav.fixed {
+  display: none !important;
+}
+
+/*janets issue - razel */
+.single-course section#content {
+  margin-top: 25px;
+}
+
+.single-course.c2 #item-nav div.item-list-tabs#object-nav li {
+  margin-right: 10px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .single-course section#content {
+    margin-top: 30px;
+  }
+}
+
+.single-course .course_cat_nav {
+  display: none;
+}

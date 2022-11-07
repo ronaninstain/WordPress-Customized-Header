@@ -1,0 +1,253 @@
+.janets-top-area {
+  background: #fff;
+  border-bottom: 1px solid #d8ded5;
+  margin-top: 5px;
+  padding-bottom: 0;
+  padding-top: 15px;
+}
+
+.janets-top-socials ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  align-content: center;
+}
+
+.janets-top-socials {
+  padding-top: 22px;
+}
+
+.janets-top-socials ul li {
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16.9px;
+  color: #151424;
+}
+
+.janets-top-socials ul li i {
+  color: #7ba631;
+  margin-right: 10px;
+  font-size: 12px;
+}
+
+.janets-top-socials-img img {
+  max-width: 100%;
+  width: 319px;
+}
+
+.janets-top-socials-img {
+  margin-top: 8px;
+}
+
+@media only screen and (min-width: 767px) and (max-width: 1023px) {
+  .janets-top-socials ul li {
+    font-size: 12px;
+  }
+
+  .janets-top-socials ul li i {
+    margin-right: 3px;
+  }
+
+  .janets-top-socials-img {
+    margin-top: 15px;
+  }
+
+  header.sleek .janets-top-area .topmenu li:first-child > a > span {
+    max-width: 40px;
+  }
+
+  .janets-top-area {
+    padding-top: 0;
+  }
+
+  .janets-top-socials-img {
+    margin-top: 17px;
+  }
+}
+
+.sleek .janets-top-area .topmenu > li:first-child a > span {
+  max-width: 130px;
+}
+header.sleek.transparent.fix .janets-top-area {
+  background: #fff;
+  border-bottom: 1px solid #D8DED5;
+  margin-top: 5px;
+  padding-bottom: 0;
+  height: 64px;
+}
+
+header.sleek.transparent.fix .janets-top-socials ul {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+}
+
+header.sleek.transparent.fix .janets-top-socials ul li {
+  padding: 0 15px;
+}
+
+header.sleek.transparent.fix li.for-right-Margin-janets-top {
+  border-right: 1px solid #D9D8E3;
+}
+
+header.sleek.transparent.fix .janets-top-socials {
+  padding-top: 22px;
+}
+
+header.sleek.transparent.fix .janets-top-socials ul li a {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16.9px;
+  color: #151424;
+}
+
+header.sleek.transparent.fix .janets-top-socials ul li img {
+  color: #7BA631;
+  margin-right: 10px;
+  width: 17px;
+}
+
+header.sleek.transparent.fix .janets-top-socials-img img {
+  max-width: 100%;
+  width: 252px;
+}
+
+header.sleek.transparent.fix .janets-top-socials-img {
+  margin-top: 20px;
+}
+
+header.sleek.transparent.fix .for-hide-ondesktop-tab-janets-top {
+  display: none;
+}
+
+header.sleek.transparent.fix .janets-top-area .topmenu>li:first-child a>span {
+  max-width: 130px;
+}
+
+header.sleek.transparent.fix nav {
+  float: none;
+}
+
+header.sleek.transparent.fix .for-janets-course-search-form-janets-top-nav form#search {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: baseline;
+  align-content: center;
+  background: #F6F7F9;
+  border: 1px solid #7BA631;
+  border-radius: 6px;
+  margin: 15px 30px;
+  padding: 5px 10px;
+}
+
+header.sleek.transparent.fix .for-janets-course-search-form-janets-top-nav #s {
+  border: 0 !important;
+  background: transparent;
+  padding: 0px 20px;
+  padding-bottom: 5px;
+}
+
+header.sleek.transparent.fix .for-janets-course-search-form-janets-top-nav button {
+  background-color: transparent;
+  border: 0;
+  color: #8FA631;
+}
+
+header.sleek.transparent.fix .topmenu .vbpcart img {
+  width: 17px;
+}
+
+header.sleek.transparent.fix .topmenu .vbplogin img {
+  width: 14px;
+  margin-right: 5px;
+}
+
+header.sleek.transparent.fix .topmenu>li>a {
+  padding-bottom: 14px;
+}
+
+@media (min-width: 1440px) {
+  header.sleek.transparent.fix .container {
+      width: 1140px !important;
+  }
+}
+
+@media only screen and (min-width: 767px) and (max-width: 1023px) {
+  header.sleek.transparent.fix .janets-top-socials ul li img {
+      width: 12px;
+  }
+
+  header.sleek.transparent.fix .janets-top-socials ul li img {
+      margin-right: 3px;
+  }
+
+  header.sleek.transparent.fix .janets-top-socials-img {
+      margin-top: 15px;
+  }
+
+  header.sleek .janets-top-area .topmenu li:first-child>a>span {
+      max-width: 40px;
+  }
+
+  header.sleek.transparent.fix .janets-top-area {
+      padding-top: 0;
+  }
+
+  header.sleek.transparent.fix .janets-top-socials-img {
+      margin-top: 27px;
+  }
+
+  header.sleek.transparent.fix .janets-top-socials ul li {
+      padding: 0 8px;
+  }
+
+  header.sleek.transparent.fix .janets-top-area {
+
+      margin-top: 0;
+
+  }
+
+  header.sleek.transparent.fix .janets-top-socials {
+      padding-top: 28px;
+  }
+
+  header.sleek.transparent.fix .janets-top-socials ul li a {
+      font-size: 11px;
+  }
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  header.sleek.transparent.fix .for-hide-ondesktop-tab-janets-top {
+      display: block;
+  }
+
+  header.sleek.transparent.fix .janets-top-area .col-md-4.col-sm-4 {
+      display: none;
+  }
+
+  header.sleek.transparent.fix .janets-top-socials {
+      padding-top: 5px;
+  }
+
+  header.sleek.transparent.fix .janets-top-socials-img img {
+      width: 240px;
+  }
+
+  header.sleek.transparent.fix .janets-top-socials-img {
+      margin: 10px 50px;
+  }
+
+  header.sleek.transparent.fix .janets-top-socials ul li {
+      font-size: 12px;
+  }
+
+  header.sleek.transparent.fix .for-janets-course-search-form-janets-top-nav {
+      display: none;
+  }
+}
